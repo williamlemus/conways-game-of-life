@@ -1,7 +1,5 @@
 require "io/console"
-# x to exit
-# p to toggle play/pause
-# r to restart
+# x or ctrl-c to exit
 
 KEYMAP = {
   'x' => :exit,
